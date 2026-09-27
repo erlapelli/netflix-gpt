@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[View Live Demo](https://netflix-gpt-9fth.vercel.app/)
+
+
 # Netflix GPT 
 
 - Create React App 
